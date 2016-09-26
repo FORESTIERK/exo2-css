@@ -1,0 +1,107 @@
+/**************************
+			CSS
+**************************/
+
+.logo{
+	width: 100px;
+	float: center;
+	margin-left: 850px;
+}
+.t1{
+	list-style: none;
+	display: inline-flex;
+	margin-left: 710px;
+	color: #4d4d4d;
+}
+header{
+	overflow: hidden;
+	background-attachment: scroll;
+	background-position: center;
+	border-bottom: 8px solid #E01045;
+	margin: auto;
+	width: 5000px;
+	margin-left: -50px;
+}
+nav{
+	background-image: url("bg.jpg");
+	margin-left: -10px; 
+	width: 1900px;
+	background-size: cover;
+	background-repeat: no-repeat;
+	height: 450px;
+
+}
+.t2{
+	padding: 20px;
+	font-size: 30px;
+	margin-left: 580px;
+	margin-top: 180px;
+	text-align: center;
+	display: inline-flex;
+	border: solid;
+	color: #FFF;
+}
+.t3{
+	padding-top: -250px;
+	text-align: center;
+	font-size: 25px;
+	color: #E01045;
+}
+.img1{
+	padding: 100px;
+	width: 100px;
+	font-size: 20px;
+	float: center;
+	display: inline;
+	margin-top: -55px;
+}
+.img2{
+	padding: 100px;
+	width: 100px;
+	font-size: 20px;
+	float: center;
+	display: inline;
+	margin-top: -55px;
+}
+.img3{
+	padding: 100px;
+	width: 100px;
+	font-size: 20px;
+	float: center;
+	display: inline;
+	margin-top: -55px;
+}
+article {
+	display: inline-block;
+	width: 250px;
+	vertical-align: middle;
+	line-height: 1;
+	text-align: center;
+	margin-left: 250px;
+	background-color: gray;
+}
+section{
+	padding: 150px;
+}
+.t4{
+	margin-top: -75px;
+	font-size: 15px;
+}
+.t5{
+	margin-top: -75px;
+	font-size: 15px;
+}
+.t6{
+	margin-top: -75px;
+	font-size: 15px;
+}
+footer{
+	padding: 100px;
+	background-color: #333333;
+}
+.afpa{
+	width: 150px;
+}
+.maisonemploi{
+	width: 150px;
+}
